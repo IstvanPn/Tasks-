@@ -1,0 +1,31 @@
+
+Project number: 	1
+Project name: 		Super
+Building type: 		Residential
+Physical address: 	52 Dock str
+ERF number: 		654897
+Amount charged: 	987000.0
+Amount paid: 		123000.0
+Amount owing: 		864000.0
+Project deadline: 	2021-02-03
+Project finalised: 	true
+Date completed: 	2021-02-03
+
+CUSTOMER:
+Name: 			Sara
+Telephone number: 	0214563256
+E-mail address: 	sara@gmail.com
+Physical address: 	5 d str
+
+ARCHITECT:
+Name: 			Max
+Telephone number: 	0214523131
+E-mail address: 	macks@gmial.com
+Physical address: 	5454 Nick Rd
+
+CONTRACTOR:
+Name: 			Mike
+Telephone number: 	0217985698
+E-mail address: 	mike@gmail.com
+Physical address: 	54 rent Rd
+=============================================
